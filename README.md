@@ -20,4 +20,4 @@ Link: [Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 ## How Repository Should Look
 
-![alt text](
+![alt text](https://d186loudes4jlv.cloudfront.net/git/images/github_new_repo3.png)
